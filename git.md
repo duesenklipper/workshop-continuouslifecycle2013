@@ -34,4 +34,8 @@ Git-Befehle aus dem Git-Workshop CL2013
 
         $ git diff --staged
 
+#### Änderungen rückgängig machen
+
+        $ git checkout HEAD -- <filename>
+        # analog zu svn revert <filename>
 
