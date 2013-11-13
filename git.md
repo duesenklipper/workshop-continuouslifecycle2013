@@ -49,3 +49,6 @@ Git-Befehle aus dem Git-Workshop CL2013
 #### Zu existierendem Branch wechseln
         $ git checkout <branchname>
 
+#### Remote repo clonen
+        $ git clone <repo-url>
+
