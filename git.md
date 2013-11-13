@@ -1,5 +1,5 @@
-Git-Befehle
-===========
+Git-Befehle aus dem Git-Workshop CL2013
+=======================================
 
 #### Git-Repo initialisieren:
 
