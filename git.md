@@ -39,3 +39,9 @@ Git-Befehle aus dem Git-Workshop CL2013
         $ git checkout HEAD -- <filename>
         # analog zu svn revert <filename>
 
+#### Branch anlegen
+        $ git branch <branchname> [<start-point>]
+
+#### Zu Branch wechseln
+        $ git checkout <branchname>
+
