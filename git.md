@@ -49,3 +49,7 @@ Git-Befehle aus dem Git-Workshop CL2013
 #### Zu Branch wechseln
         $ git checkout <branchname>
 
+#### Mergen
+        $ git checkout <zielbranch>
+        $ git merge [--no-ff] <quellbranch>
+        
