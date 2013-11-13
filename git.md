@@ -21,4 +21,17 @@ Git-Befehle
 
     $ git log
 
+#### Diff anzeigen
+- gegen Index
+
+        $ git diff
+
+- gegen letzten Commit
+
+        $ git diff HEAD
+
+- zwischen Index und HEAD
+
+        $ git diff --staged
+
 
