@@ -46,10 +46,6 @@ Git-Befehle aus dem Git-Workshop CL2013
 #### Branch anlegen
         $ git branch <branchname> [<start-point>]
 
-#### Zu Branch wechseln
+#### Zu existierendem Branch wechseln
         $ git checkout <branchname>
 
-#### Mergen
-        $ git checkout <zielbranch>
-        $ git merge [--no-ff] <quellbranch>
-        
