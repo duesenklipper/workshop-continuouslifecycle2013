@@ -52,3 +52,8 @@ Git-Befehle aus dem Git-Workshop CL2013
 #### Remote repo clonen
         $ git clone <repo-url>
 
+#### Updates aus remote holen
+        $ git fetch <remote-name>
+        # z.B. git fetch origin
+        # dann mergen mit git merge origin/branchname
+
