@@ -21,6 +21,10 @@ Git-Befehle aus dem Git-Workshop CL2013
 
     $ git log
 
+#### Verlorene Commits und andere Aktionen wiederfinden
+ 
+    $ git reflog
+
 #### Diff anzeigen
 - gegen Index
 
